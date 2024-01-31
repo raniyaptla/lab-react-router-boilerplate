@@ -1,0 +1,18 @@
+h1{
+  display: flex;
+  justify-content: center;
+}
+
+/* Navbar.css */
+
+nav {
+  background-color: black;
+  padding: 30px;
+  color: white;
+}
+
+nav a {
+  color: white;
+  margin-right: 10px;
+  text-decoration: none;
+}
